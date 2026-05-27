@@ -1,0 +1,9 @@
+version: "1.0"
+info:
+  model: int-scaffold
+packages:
+- name: Project2Project
+  gitServerName: Rahul
+  gitUrl: https://github.com/rahulsiv
+  gitUsername: rahulsiv
+  gitBranch: main
